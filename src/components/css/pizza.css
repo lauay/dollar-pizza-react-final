@@ -2,9 +2,14 @@
   height: 50vh;
   background: url(../images/pizza-splash.jpg);
   background-size: cover;
-  background-position: center;
+  background-position: center; 
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300&family=Ibarra+Real+Nova&family=Roboto+Mono:wght@100;500&family=Roboto:ital,wght@1,100&display=swap');
 .Pizza .header-text {
+  font-size: 100px;
+  color: white;
   padding-top: 8%;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
 }
